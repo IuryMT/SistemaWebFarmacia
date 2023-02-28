@@ -10,6 +10,8 @@ O desenvolvedor por fazer o site(backend e frontend) e torná-lo funcional para 
 
 Executei a função de desenvolvedor. Com algumas ajudas dos colegas de classe fiz esse site que está parcialmente pronto.
 
+<a href="https://sistemawebfarmacia.000webhostapp.com/index.php" target="_blank">Ver Projeto Online</a>
+
 ## Funcionalidades
 
 - Comercialização de produtos
@@ -52,4 +54,4 @@ Executei a função de desenvolvedor. Com algumas ajudas dos colegas de classe f
 - Css
 - Javascript
 - Php
-- Xampp
+- Mysql
